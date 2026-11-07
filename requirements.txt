@@ -1,0 +1,11 @@
+python-dotenv
+pyiceberg[sql-sqlite,glue]
+pyarrow
+pandas
+duckdb
+boto3
+s3fs
+shapely
+geopandas
+notebook
+pytest
